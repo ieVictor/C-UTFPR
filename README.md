@@ -1,4 +1,4 @@
-# Algoritmos | UTFPR
+# C | UTFPR
 
 Algoritmos criados em **C** durante o curso de **Fundamentos de programação** realizado no primeiro semestre de Análise e Desenvolvimento de Sistemas na **UTFPR**.
 
