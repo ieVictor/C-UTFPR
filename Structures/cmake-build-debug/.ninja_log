@@ -1,0 +1,10 @@
+# ninja log v5
+3	159	7083959528714080	CMakeFiles/Structures.dir/moviesList.c.obj	2f57a3709eb8dc56
+168	341	7091734813659772	Structures.exe	dee15941571db934
+0	244	7091869987326326	build.ninja	d684eb514ba85361
+2	166	7088099889902977	CMakeFiles/Structures.dir/flights.c.obj	666512f79880257
+3	168	7091734812139771	CMakeFiles/Structures.dir/socialMedia.c.obj	be4a4b11e204228a
+0	239	7091870023087452	CMakeFiles/Structures.dir/tt.c.obj	1b0be709bbaadbe4
+240	843	7091870029057396	Structures.exe	6877f6127c9ff9cf
+2	107	7091870182902891	CMakeFiles/Structures.dir/tt.c.obj	1b0be709bbaadbe4
+107	265	7091870184382921	Structures.exe	6877f6127c9ff9cf
