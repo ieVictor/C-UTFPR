@@ -19,4 +19,4 @@ Algorithms created in **C** during the **Fundamentals of Programming** course, c
 - [Structures](https://github.com/ieVictor/C-UTFPR/tree/main/Structures)
 
 ## Projects made.
-[LINK para o jogo das pedras.]
+- ♟️ [Jogo das Pedras - C](https://github.com/ieVictor/C-jogoDasPedras)
