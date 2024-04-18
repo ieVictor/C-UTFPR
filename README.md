@@ -7,7 +7,7 @@ Algorithms created in **C** during the **Fundamentals of Programming** course, c
 </p>
 
 
-## Concepts Learned.
+## Concepts Learned
 -  [Operations](https://github.com/ieVictor/C-UTFPR/tree/main/Operations)
  - [Strings](https://github.com/ieVictor/C-UTFPR/tree/main/Strings)
 - [Loops](https://github.com/ieVictor/C-UTFPR/tree/main/Loops)
@@ -18,5 +18,5 @@ Algorithms created in **C** during the **Fundamentals of Programming** course, c
 -  [Procedures](https://github.com/ieVictor/C-UTFPR/tree/main/Procedures)
 - [Structures](https://github.com/ieVictor/C-UTFPR/tree/main/Structures)
 
-## Projects made.
+## Projects made
 - ♟️ [Jogo das Pedras - C](https://github.com/ieVictor/C-jogoDasPedras)
